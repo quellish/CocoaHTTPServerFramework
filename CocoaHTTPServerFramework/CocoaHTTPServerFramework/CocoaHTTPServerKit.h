@@ -14,4 +14,9 @@
 #import <CocoaHTTPServerKit/HTTPResponse.h>
 #import <CocoaHTTPServerKit/HTTPAuthenticationRequest.h>
 
-
+#import <CocoaHTTPServerKit/HTTPAsyncFileResponse.h>
+#import <CocoaHTTPServerKit/HTTPDataResponse.h>
+#import <CocoaHTTPServerKit/HTTPDynamicFileResponse.h>
+#import <CocoaHTTPServerKit/HTTPErrorResponse.h>
+#import <CocoaHTTPServerKit/HTTPFileResponse.h>
+#import <CocoaHTTPServerKit/HTTPRedirectResponse.h>
