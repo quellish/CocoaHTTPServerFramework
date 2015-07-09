@@ -35,7 +35,7 @@
 		1BBDFFC81B4E15F30071D37E /* HTTPAuthenticationRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BBDFFA21B4E15F30071D37E /* HTTPAuthenticationRequest.m */; };
 		1BBDFFC91B4E15F30071D37E /* HTTPConnection.h in Headers */ = {isa = PBXBuildFile; fileRef = 1BBDFFA31B4E15F30071D37E /* HTTPConnection.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1BBDFFCA1B4E15F30071D37E /* HTTPConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BBDFFA41B4E15F30071D37E /* HTTPConnection.m */; };
-		1BBDFFCB1B4E15F30071D37E /* HTTPLogging.h in Headers */ = {isa = PBXBuildFile; fileRef = 1BBDFFA51B4E15F30071D37E /* HTTPLogging.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1BBDFFCB1B4E15F30071D37E /* HTTPLogging.h in Headers */ = {isa = PBXBuildFile; fileRef = 1BBDFFA51B4E15F30071D37E /* HTTPLogging.h */; };
 		1BBDFFCC1B4E15F30071D37E /* HTTPMessage.h in Headers */ = {isa = PBXBuildFile; fileRef = 1BBDFFA61B4E15F30071D37E /* HTTPMessage.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1BBDFFCD1B4E15F30071D37E /* HTTPMessage.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BBDFFA71B4E15F30071D37E /* HTTPMessage.m */; };
 		1BBDFFCE1B4E15F30071D37E /* HTTPResponse.h in Headers */ = {isa = PBXBuildFile; fileRef = 1BBDFFA81B4E15F30071D37E /* HTTPResponse.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -348,11 +348,11 @@
 				1BBDFFC71B4E15F30071D37E /* HTTPAuthenticationRequest.h in Headers */,
 				1BBDFFE11B4E15F30071D37E /* HTTPRedirectResponse.h in Headers */,
 				1BBDFFCE1B4E15F30071D37E /* HTTPResponse.h in Headers */,
-				1BBDFFCB1B4E15F30071D37E /* HTTPLogging.h in Headers */,
 				1BBDFFDD1B4E15F30071D37E /* HTTPErrorResponse.h in Headers */,
 				1BBDFFD91B4E15F30071D37E /* HTTPDataResponse.h in Headers */,
 				1BBDFFD71B4E15F30071D37E /* HTTPAsyncFileResponse.h in Headers */,
 				1BBDFFCF1B4E15F30071D37E /* HTTPServer.h in Headers */,
+				1BBDFFCB1B4E15F30071D37E /* HTTPLogging.h in Headers */,
 				1BBD00081B4E16080071D37E /* DDTTYLogger.h in Headers */,
 				1BBD00021B4E16080071D37E /* DDASLLogger.h in Headers */,
 				1BBDFFD11B4E15F30071D37E /* MultipartFormDataParser.h in Headers */,

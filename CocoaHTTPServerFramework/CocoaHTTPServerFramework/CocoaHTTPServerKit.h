@@ -10,7 +10,6 @@
 
 #import <CocoaHTTPServerKit/HTTPServer.h>
 #import <CocoaHTTPServerKit/HTTPConnection.h>
-#import <CocoaHTTPServerKit/HTTPLogging.h>
 #import <CocoaHTTPServerKit/HTTPMessage.h>
 #import <CocoaHTTPServerKit/HTTPResponse.h>
 #import <CocoaHTTPServerKit/HTTPAuthenticationRequest.h>
